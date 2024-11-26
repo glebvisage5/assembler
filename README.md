@@ -138,7 +138,7 @@ npx jest assemble.test.js
 ```
 
 ## Скриншот тестов
-![image](https://github.com/user-attachments/assets/c4ebf69c-8d7a-40ad-bf3f-60afcb53d1fe)
+![image](https://github.com/user-attachments/assets/a4e587b5-d9de-40c6-b198-f96e8abbda1b)
 
 ## Контакты
 Если у вас возникли вопросы или предложения, свяжитесь со мной:
